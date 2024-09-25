@@ -4,7 +4,7 @@
  # the repository I created was our submission for this class. 
  # To clone the repository I had to go to file > clone and found my repoistory, however first I had to save it as a summary as another instance. 
 
-#### about Me
+# about Me
 ## my intrests
 # I like to do pottery & wood working as I've said before and hang out with my friends when I have free time. My favorite subject is English because the teacher we have here is well-spoken & intresting and the class itself is good and challenging.
 ## websites I recommend:
